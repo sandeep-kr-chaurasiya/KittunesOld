@@ -100,7 +100,7 @@ For any questions, suggestions, or feedback, feel free to contact the authors:
 - **Email**: sandeepkr11320@gmail.com
 
 - ### Name: Dinesh Kumar
-- **Website**: [https://d-s.netlify.app](https://d-s.netlify.app)
+- **Website**: [https://dineshsingh.me](https://dineshsingh.me)
 - **Email**: dineshkumar623092@gmail.com
 
 ---
